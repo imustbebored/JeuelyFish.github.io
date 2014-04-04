@@ -1,4 +1,3 @@
-
 body {
 	
 	background-color: #b7d1c4;
@@ -22,7 +21,7 @@ p {
 
 }
 
-.headers {
-	color: #003300;
-	font-family: Verdana;
+#headers {
+	color: #003300!important;
+	font-family: Verdana!important;
 }
