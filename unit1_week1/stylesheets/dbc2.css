@@ -1,0 +1,15 @@
+.yellow{
+  color:yellow;
+}
+
+
+a:link	{color:black;}
+a:visited {color:green;}
+a:hover{color:blue;}
+
+.footer {
+	position: absolute; 
+    bottom: -30px; 
+    left:50px; 
+    background-color: white
+}
