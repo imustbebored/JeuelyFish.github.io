@@ -1,16 +1,28 @@
+
 body {
+	
 	background-color: #b7d1c4;
 }
 
-h1 {font-family: Verdana;
+h1 {
+	font-family: Verdana;
 	font-weight: bold;
-	color: #003300;}
+	
+	}
 
-p {color:	#000047;}
+p {
+	
+	color:	#000047;
+	
+	}
 
-#cat_pic { width="300" height="300";
+#cat_pic { 
+	
+	width="300" height="300";
 
 }
 
-.headers {font-family: Verdana;
+.headers {
+	color: #003300;
+	font-family: Verdana;
 }
